@@ -26,15 +26,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshojha99" /> </p>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***PROYECTOS EN PROCESO***
+***PROYECTOS EN PROCESO***
 
-- Abbreviation AA : ***ALPHA AQUARIUS***😉 <br>
-✔ I’m currently Developing **HDSSA** Hydrid Security Software <br>
-✔ I’m currently learning **Cloud Computing** & **Blender**<br>
-✔ I’m Working to develop a community of Some leads and Members with many Advanced Technical and non Technical Skills **Open-Source contribution**<br>
-✔ Sometimes I write blog articles,Check out on <a href="https://astrofire40299681.wordpress.com/" target="blank"><img align="" src="https://github.com/divyanshojha99/PICBOX/blob/main/wordpress.png?raw=true" alt="Divyansh ojha" height="25" width="36" /></a><br>
-✔ Inner Fact : *When I feel boring or in stress,I start writing quotes and video editing,Check out that stuffs on my Instagram-page*<a href="https://www.instagram.com/beatz.felt/" target="blank"><img align="" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Divyansh ojha" height="25" width="36" /></a><br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
+- Integraciones AI A SIEM (VirusTotal, AbuseIPDB, MetaDefenderCloud, etc), Libres de Uso en ***N8N*** <br>
+- Casos de Uso en **SPLUNK** <br>
+- Preparación **Comptia Security+** 28 Secciones<br>
+- Aplicacion de Base Segura Automatizado en múltiples equipos, respetando Rings, Controles de **ISO27001**<br>
+- Honeypot Red Local + Documentación + Capturas <br>
+- Configuración de Reglas Analiticas del Firewall en Windows (Politicas, Reglas de Entrada y Salida + Mitigación<br>
+<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
