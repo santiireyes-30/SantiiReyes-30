@@ -19,8 +19,8 @@
 
 <p align="center">
   <em>
-    Bienvenidos!!, aquí <b>SANTIAGO REYES</b> Estudiante de Ciberseguridad, Aquí encontráras proyectos prácticos de Ciberseguridad & Redes & Seguridad en Nube <a href="https://santiireyes-30.github.io/DevelopingSR/">. <br>
-    Orientado en Blue Team <b>CiberSecurity Analyst & Cloud Security,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    Bienvenidos!!, aquí <b>SANTIAGO REYES</b> Estudiante de Ciberseguridad, Aquí encontráras proyectos prácticos de Ciberseguridad & Redes & Seguridad en Nube <a href="https://santiireyes-30.github.io/DevelopingSR/">. Orientado en Blue Team <b>CiberSecurity Analyst & Cloud Security <br>
+    HAC CLICK EN WEB PARA SABER MAS DE MI,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshojha99" /> </p>
