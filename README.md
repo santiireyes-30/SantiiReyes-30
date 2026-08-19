@@ -32,7 +32,7 @@
 <br><br>
  
 <!-- Header Links -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://drive.google.com/file/d/1PKVMjK2mQuTJwq5QBiFa7ouBPX5NeVyj/preview)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://drive.google.com/file/d/1PKVMjK2mQuTJwq5QBiFa7ouBPX5NeVyj/preview)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
