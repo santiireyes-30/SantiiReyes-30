@@ -19,16 +19,16 @@
 
 <p align="center">
   <em>
-    Bienvenidos!!, aquí <b>SANTIAGO REYES</b> Estudiante de Ciberseguridad, Aquí encontráras proyectos prácticos de Ciberseguridad & Redes & Seguridad en Nube <a href="https://santiireyes-30.github.io/DevelopingSR/">. Orientado en Blue Team <b>CiberSecurity Analyst & Cloud Security <br>
-    HAC CLICK EN WEB PARA SABER MAS DE MI,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    Bienvenidos!!, aquí <b>SANTIAGO REYES</b> Estudiante de Ciberseguridad, Aquí encontráras proyectos prácticos de Ciberseguridad & Redes & Seguridad en Nube <a href="https://santiireyes-30.github.io/DevelopingSR/">. 
+    <br> HAC CLICK EN WEB PARA SABER MAS DE MI</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshojha99" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***LITTLE ABOUT MYSELF❤️***
 
-✔ Abbreviation AA : ***ALPHA AQUARIUS***😉 <br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***PROYECTOS EN PROCESO***
+
+- Abbreviation AA : ***ALPHA AQUARIUS***😉 <br>
 ✔ I’m currently Developing **HDSSA** Hydrid Security Software <br>
 ✔ I’m currently learning **Cloud Computing** & **Blender**<br>
 ✔ I’m Working to develop a community of Some leads and Members with many Advanced Technical and non Technical Skills **Open-Source contribution**<br>
