@@ -1,8 +1,8 @@
 <p align="center">
 </p>
 <hr>
-<h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">, SANTIAGO REYES </h1>
-<h3 align="center">CYBERSECURITY || AWS Enthusiast & SOC ANALYST </h3>
+<h1 align="center">HOLA! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">, SANTIAGO REYES </h1>
+<h3 align="center"> ANALYST CYBERSECURITY || AWS Enthusiast & SOC ANALYST L1 </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
 <a href="https://twitter.com/the_astro99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Divyansh ojha" height="30" width="40" /></a>
@@ -19,14 +19,8 @@
 
 <p align="center">
   <em>
-    Divyansh here, a <b>Sophomore</b> undergraduate from <a href="https://vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>,BHOPAL(MP) </a>. <br>
-    A budding <b>Full-Stack Software Developer & CYBER Security analyst,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b>𝒮𝓅𝑜𝑜𝓃 𝒻𝑒𝑒𝒹𝒾𝓃𝑔 𝒾𝓃 𝓉𝒽𝑒 𝓁𝑜𝓃𝑔 𝓇𝓊𝓃 𝓉𝑒𝒶𝒸𝒽𝑒𝓈 𝓊𝓈 𝓃𝑜𝓉𝒽𝒾𝓃𝑔 𝒷𝓊𝓉 𝓉𝒽𝑒 𝓈𝒽𝒶𝓅𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓈𝓅𝑜𝑜𝓃...</b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+    Bienvenidos!!, aquí <b>SANTIAGO REYES</b> Estudiante de Ciberseguridad, Aquí encontráras proyectos prácticos de Ciberseguridad & Redes & Seguridad en Nube <a href="https://santiireyes-30.github.io/DevelopingSR/">. <br>
+    Orientado en Blue Team <b>CiberSecurity Analyst & Cloud Security,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshojha99" /> </p>
