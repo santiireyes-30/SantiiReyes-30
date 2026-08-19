@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <hr>
-<h1 align="center">HOLA! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">, SANTIAGO REYES </h1>
+<h1 align="center"> SANTIAGO REYES </h1>
 <h3 align="center"> ANALYST CYBERSECURITY || AWS Enthusiast & SOC ANALYST L1 </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
