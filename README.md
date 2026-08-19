@@ -40,8 +40,7 @@
 
 
 -----
-Credits: [Divyansh Ojha](https://github.com/divyanshojha99)
-   
+
 
                     
 
