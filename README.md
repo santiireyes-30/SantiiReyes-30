@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    Bienvenidos!!. Soy <b>Santiago Reyes</b> Apasionado de Ciberseguridad, Aquí encontráras Proyectos Prácticos de Ciberseguridad & Redes & Seguridad en Nube <a href="https://santiireyes-30.github.io/DevelopingSR/">. 
+    Bienvenidos!!. Soy <b>Santiago Reyes</b> Apasionado por Ciberseguridad, Aquí encontráras Proyectos Prácticos de Ciberseguridad & Redes & Seguridad en Nube <a href="https://santiireyes-30.github.io/DevelopingSR/">. 
     <br> HAZ CLICK AQUI PARA VER MI WEB Y SABER MAS DE MI</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 </p>
 
