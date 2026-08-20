@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <hr>
-<h1 align="center"> SANTIAGO REYES </h1>
+<h1 align="center"> SANTIAGO REYES  </h1> 
 <h3 align="center"> ANALYST CYBERSECURITY | SOC ANALYST L1 | AWS Enthusiast </h3>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joetancy" height="40" width="40" /></a>
@@ -16,7 +16,7 @@
 <p align="center">
   <em>
     Bienvenidos!!. Soy <b>Santiago Reyes</b> Apasionado por Ciberseguridad, Aquí encontráras Proyectos Prácticos de Ciberseguridad & Redes & Seguridad en Nube <a href="https://santiireyes-30.github.io/DevelopingSR/">. 
-    <br> HAZ CLICK AQUI PARA VER MI WEB Y SABER MAS DE MI</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    <br> HAZ CLICK AQUI PARA VER MI WEB Y SABER MÁS DE MI</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshojha99" /> </p>
