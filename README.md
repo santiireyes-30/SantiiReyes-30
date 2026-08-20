@@ -31,7 +31,7 @@
 - Casos de Uso en **SPLUNK** <br>
 - Preparación **Comptia Security+** 28 Secciones<br>
 - Aplicacion de Base Segura Automatizado en múltiples equipos, respetando Rings, Controles de **ISO27001**<br>
-- Honeypot Red Local + Documentación + Capturas <br>
+- Honeypot, Configuración de Azure VM expuesta internacionalmente, Log Analytics, Lenguaje KQL, Geolocalización + Capturas <br>
 - Configuración de Reglas Analiticas del Firewall en Windows (Politicas, Reglas de Entrada y Salida + Control de Tráfico Mitigación/Bloqueo de Puertos Innecesarios)<br>
 <br><br>
 
