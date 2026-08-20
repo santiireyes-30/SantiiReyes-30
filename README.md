@@ -23,13 +23,26 @@
 
 ***PROYECTOS EN PROCESO***
 
-- Integraciones AI A SIEM (VirusTotal, AbuseIPDB, MetaDefenderCloud, etc), Libres de Uso en ***N8N*** <br>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+
+- Integraciones de Herramienta Libres de Uso (VirusTotal, AbuseIPDB, MetaDefenderCloud, etc), en ***N8N*** <br>
 - Casos de Uso en **SPLUNK** <br>
 - Preparación **Comptia Security+** 28 Secciones<br>
 - Aplicacion de Base Segura Automatizado en múltiples equipos, respetando Rings, Controles de **ISO27001**<br>
 - Honeypot Red Local + Documentación + Capturas <br>
 - Configuración de Reglas Analiticas del Firewall en Windows (Politicas, Reglas de Entrada y Salida + Control de Tráfico Mitigación/Bloqueo de Puertos Innecesarios)<br>
 <br><br>
+
+⌚︎ ***TIEMPO DE DEDICACIÓN ACTUAL***
+
+***TOP 5***: <br>
+Comptia Security+                                ████████████░░░░░░░░░░░░░   50.07% <br>
+Proyectos & Repositorios Cybersecurity           ██████░░░░░░░   25.83% <br>
+Cloud Security AWS                               ███░░░░░░░░░░░░░░░░░░░░░░   13.62% <br>
+N8N                                              ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.15%  <br>
+Docker                                           █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%  <br>
+
  
 <!-- Header Links -->
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://drive.google.com/file/d/1PKVMjK2mQuTJwq5QBiFa7ouBPX5NeVyj/preview)
