@@ -35,7 +35,7 @@
 - Configuración de Reglas Analiticas del Firewall en Windows (Politicas, Reglas de Entrada y Salida + Control de Tráfico Mitigación/Bloqueo de Puertos Innecesarios)<br>
 <br><br>
 
-⌚︎ ***TIEMPO DE DEDICACIÓN ACTUAL***
+⌚︎ ***DASHBOARD DE TIEMPO DE DEDICACIÓN ACTUAL***
 
 ***TOP 5***: <br>
 Comptia Security+                                ████████████░░░░░░░░░░░░░   50.07% <br>
